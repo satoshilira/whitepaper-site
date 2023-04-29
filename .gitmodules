@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-techdoc"]
+	path = themes/hugo-theme-techdoc
+	url = git@github.com:satoshilira/hugo-theme-techdoc.git
