@@ -1,5 +1,5 @@
 ---
-title: LIRA DECENTRALIZED EXCHANGE
+title: LIRA Decentralized Exchange
 date:
 draft: false
 weight: 70
