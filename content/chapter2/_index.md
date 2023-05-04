@@ -6,15 +6,10 @@ weight: 10
 menu: ''
 ---
 
-{{% panel status="primary" title="Note" icon="far fa-lightbulb" %}}
-The `weight` field with weight number in your content’s front matter will render a weighted menu.
+The name Satoshi LIRA comes out from the idea to give to a cryptocurrency an intrinsic value in bitcoin.
+As anticipated in the introduction, the store of value in bitcoin is used by the protocol to generate the LIRA derivative on a 1 Satoshi / 1 LIRA ratio, this means that 0.00000001 BTC has to enter the store of value to let the emission of 1 new LIRA possible.
 
-```
-weight: 30
-```
+This process is automatically controlled by a smart contract, which authorizes the mint of LIRA when bitcoins are put in the store of value.
 
-Lower weight gets higher precedence. So content with lower weight will come first.
+A smart contract designed this way prevents unhautorized or incorrect access to the store of value or that malicious third party entities could create new supply without maintaining the counter value ratio.
 
-{{% /panel %}}
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
