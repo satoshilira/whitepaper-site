@@ -5,8 +5,13 @@ draft: false
 weight: 40
 ---
 
-{{% panel status="primary" title="Note" icon="far fa-lightbulb" %}}
-The document hierarchy is unlimite.
-{{% /panel %}}
+The Satoshi LIRA protocol selects the best liquidity pools to allocate capital based on risk and generated APR.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Once the capital is allocated, the LIRA protocol collects rewards from all utilized liquidity pools on a daily basis and balances the allocations between all selected pools.
+
+70% of the rewards collected by the liquidity pools are converted to BTC, these generated BTC are processed through smart contract then locked in the vault, allowing the minting of LIRA to distribute to users in the ecosystem.
+
+20% of the rewards are used to increase positions in existing LPs or to allocate in new LPs, generating a compound mechanism on the capital used for liquidity providing.
+
+10% of the rewards are retained by the Satoshi LIRA team in form of native coins.
+

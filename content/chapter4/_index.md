@@ -5,11 +5,33 @@ draft: false
 weight: 50
 ---
 
-{{% panel status="primary" title="Note" icon="far fa-lightbulb" %}}
-The document hierarchy is unlimite.
-It also means that the menu levels is unlimited levels.
+Every time an equivalent amount of BTC is collected in the value reserve under smart contract, a new block of LIRA is minted.
+As previously stated, the ratio is 1 LIRA to 1 SATOSHI.
 
-The menu levels has up to 5 levels of indentation. After that there is no indentation.
-{{% /panel %}}
+---
 
+1 Satoshi = 0.00000001 BTC
+
+Intrinsic value LIRA = 1 Satoshi
+
+---
+
+From each block of minted LIRA, 1% of the total is Burned.
+80% of the minted LIRA, after the 1% initial burn, is set aside for minting TB tokens and the 20% is distributed in the LIRA ecosystem.
+The percentage of LIRA introduced into the ecosystem will undergo an additional 4% burn.
+
+The distribution of the remaining LIRA following the initial divisions occurs as follow:
+
+    LIRA Treasury Bond (TB) Token Staking = 50%
+                                     TEAM = 15%                              
+                                      REF = 10%
+                         Liquidity Mining = 10%
+                              Development =  5%
+                              Unallocated =  4%
+                Financing / DAO Decisions =  3%
+                                    Costs =  2%
+                                Marketing =  1%
+
+<h4>The burn strategy is applied to implement a compensation mechanism for the minted presale supply and to increase, over time, the intrinsic 
+value of LIRA in BTC.</h4>
 
