@@ -87,7 +87,7 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name = "Discord"
-        url = ""
+        url = "https://discord.gg/fDRBajCB9V"
         weight = 3
         identifier = 'discord'
         pre = "<i class='fa-brands fa-discord'></i>&nbsp;"
@@ -140,3 +140,5 @@ enableMissingTranslationPlaceholders = false
         "tags",
         "categories",
     ]
+
+    

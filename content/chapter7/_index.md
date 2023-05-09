@@ -14,7 +14,7 @@ It has a defined total supply of 210,000,000,000,000,000,000,000 YOSHI tokens di
     20%  Airdrop           -  42,000,000,000,000,000,000,000    (4.2x10^22)    (pre-minted)
     60%  Incentive Staking - 126,000,000,000,000,000,000,000   (1.26x10^23)
 
-The amount minted per block is 13,808,219,200,000 YOSHI and the block production halving occurs every time 50% of the remaining coins to be mionted are reached.
+The amount minted per block is 13,808,219,200,000 YOSHI and the block production halving occurs every time 50% of the remaining coins to be minted are reached.
 
 The first halving occurs at 63,000,000,000,000,000,000,000 (6.3x10^22) minted coins and subsequent halvings occur at intervals of 
 31,500,000,000,000,000,000,000 (3.15x10^22) minted coins, 15,750,000,000,000,000,000,000 (1.575x10^22) minted coins, etcetera.

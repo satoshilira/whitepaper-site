@@ -1,7 +1,7 @@
 ---
 title: Layer 3
 draft: false
-weight: 5
+weight: 90
 ---
 
 The Layer 3 of the Satoshi LIRA ecosystem aims to actively serve the economy of its members by directly connecting businesses and customers on web3, reducing transaction costs and aiming to actively become part of daily life.
