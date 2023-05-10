@@ -9,6 +9,6 @@ To fill one of the major gaps in the crypto sector, namely the inability to inve
 
 ---
 
-*Inserire qui grafico hydra*
+*Inserire qui grafico hydra* <img src="/static/images/GraficoHydra.png">
 
 ---
