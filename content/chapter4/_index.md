@@ -11,9 +11,9 @@ As previously stated, the ratio is 1 LIRA to 1 SATOSHI.
 
 ---
 
-1 Satoshi = 0.00000001 BTC
+<h3>1 Satoshi = 0.00000001 BTC</h3>
 
-Intrinsic value LIRA = 1 Satoshi
+<h3>Intrinsic value LIRA = 1 Satoshi</h3>
 
 ---
 

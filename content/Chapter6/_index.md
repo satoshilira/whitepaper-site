@@ -11,9 +11,3 @@ and the innovative trading of rebase tokens paired with the most commonly traded
 
 Providing liquidity to the pools will allow users to receive a percentage of all fees collected from the swaps made within them, furthermore staking LP 
 tokens on the platform will generate rewards in LIRA and CRT (Commodities Rebase Token)
-
----
-
-*image*
-
----

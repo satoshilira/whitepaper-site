@@ -14,8 +14,4 @@ This process is automatically controlled by a smart contract, which authorizes t
 
 A smart contract designed this way prevents unhautorized or incorrect access to the store of value or that malicious third party entities could create new supply without maintaining the counter value ratio.
 
----
-
-*bitcoin vault graph*
-
----
+![The BTC Vault](/images/the-btc-vault.png)
