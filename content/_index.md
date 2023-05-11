@@ -9,6 +9,6 @@ weight: 1
 
 ---
 
-*inserire logo Satoshi LIRA*
+*logo Satoshi LIRA*
 
 ---

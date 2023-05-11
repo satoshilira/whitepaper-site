@@ -17,6 +17,6 @@ Once the capital is allocated, the LIRA protocol collects rewards from all utili
 
 ---
 
-*grafico LP provider + descrizione a tabella*
+*Kraken graph + btc vault graph*
 
 ---
