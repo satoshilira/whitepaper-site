@@ -3,6 +3,7 @@ title: "Minted LIRA distribution"
 date:
 draft: false
 weight: 50
+url: '/minted-lira-distribution'
 ---
 
 Every time an equivalent amount of BTC is collected in the value reserve under smart contract, a new block of LIRA is minted.

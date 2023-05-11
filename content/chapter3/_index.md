@@ -3,6 +3,7 @@ title: "Liquidity Providing protocol"
 date:
 draft: false
 weight: 40
+url: '/liquidity-providing-protocol'
 ---
 
 The Satoshi LIRA protocol selects the best liquidity pools to allocate capital based on risk and generated APR.

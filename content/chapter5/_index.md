@@ -3,6 +3,7 @@ title: LIRA Treasury Bonds
 date:
 draft: false
 weight: 60
+url: '/lira-treasury-bonds'
 ---
 
 Lira Treasury Bonds, or TB Tokens, are the tools that the LIRA ecosystem uses to deflate the circulating supply of LIRA and, in any case, make free trade possible for the owners of these values.

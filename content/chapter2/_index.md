@@ -4,6 +4,7 @@ date:
 draft: false
 weight: 10
 menu: ''
+url: '/bitcoin-as-store-value'
 ---
 
 The name Satoshi LIRA comes out from the idea to give to a cryptocurrency an intrinsic value in bitcoin.

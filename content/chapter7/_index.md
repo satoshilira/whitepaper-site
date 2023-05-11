@@ -2,6 +2,7 @@
 title: Governance and YOSHI token
 draft: false
 weight: 80
+url: '/governance'
 ---
 
 The YOSHI token is the cornerstone of the democratic, decentralize and free governance system of the LIRA ecosystem.

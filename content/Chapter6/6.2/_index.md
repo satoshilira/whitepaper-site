@@ -2,6 +2,7 @@
 title: Launchpad
 draft: false
 weight: 4
+url: '/launchpad'
 ---
 
 Within the LIRA DeX, the launchpad will be made available for companies and projects that wish to become part of the LIRA ecosystem.
