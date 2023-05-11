@@ -1,4 +1,4 @@
-baseURL = 'http://satoshilira.xyz/'
+baseURL = 'http://satoshilira.io/'
 languageCode = 'en-us'
 title = 'Satoshi LIRA Whitepaper site'
 theme = 'hugo-theme-techdoc'
