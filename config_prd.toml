@@ -1,4 +1,4 @@
-baseURL = 'http://satoshilira.io/'
+baseURL = 'https://whitepaper.satoshilira.io'
 languageCode = 'en-us'
 title = 'Satoshi LIRA Whitepaper site'
 theme = 'hugo-theme-techdoc'
@@ -140,5 +140,3 @@ enableMissingTranslationPlaceholders = false
         "tags",
         "categories",
     ]
-
-    
