@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:3000'
+baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'Satoshi LIRA Whitepaper site'
 theme = 'hugo-theme-techdoc'
