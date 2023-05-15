@@ -25,5 +25,5 @@ The YOSHI token will be used as the governance token, meaning that any decision 
 All users who voted for rejected proposals will receive back 80% of their YOSHI tokens used for the voting process.
 The remaining 20% will be split and distributed as follows: 
 
-    80% will go to the users who voted for the approved proposal in the form of an airdrop
+    80% will be airdropped to the users who voted for the approved proposal
     20% will be split between the LIRA team and the LIRA ecosystem (10%, 90%)
