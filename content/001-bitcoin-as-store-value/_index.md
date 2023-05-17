@@ -27,8 +27,7 @@ Every time new LIRA are minted, a portion is burned through the burn mechanism, 
 
 
 Every user can burn their LIRA at any time and receive back the equivalent of its intrinsic value in BTC.
-This allows every LIRA holder to have the mathematical certainty that, in a completely passive manner, regardless of their activities within the Satoshi LIRA ecosystem, the intrinsic value of their LIRA will constantly grow over time. Therefore, the quantity of BTC they own increases steadily over time.
-
+This allows every LIRA holder to have the mathematical certainty that, in a completely passive manner, regardless of their activities within the Satoshi LIRA ecosystem, the intrinsic value of their LIRA will constantly grow over time.
 
 
 

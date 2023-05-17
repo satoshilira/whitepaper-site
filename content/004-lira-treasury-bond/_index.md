@@ -24,3 +24,11 @@ Once the new LIRA have been issued, 80% is allocated to the minting of TB tokens
     20% in TBg Tokens
 
 The LIRA used for the minting of the TB tokens are also locked in a vault.
+
+
+
+Every time new TB tokens are minted, a portion is burned through the burn mechanism, but the equivalent in LIRA remains within the contract. This ensure that the intrinsic value of LIRA steadily increases over time.
+
+
+Every user can burn their TB tokens at any time and receive back the equivalent of their value in LIRA.
+This allows every TB token holder to have the mathematical certainty that, in a completely passive manner, regardless of their activities within the Satoshi LIRA ecosystem, the intrinsic value of their TB token will constantly grow over time.
