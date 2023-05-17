@@ -8,6 +8,7 @@ export function WhitepaperSiteStack({ stack }: StackContext) {
   const site = new StaticSite(this, 'WhitepaperSite', {
     path: '.',
     buildOutput: 'public',
+    buildCommand: `hugo --config ${stack.stage === 'prd' ? 'config_prd.toml' : 'config_dev.toml'}`,
     errorPage: 'redirect_to_index_page',
     customDomain: zoneName,
     cdk: {
