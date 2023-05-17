@@ -8,7 +8,7 @@ export function WhitepaperSiteStack({ stack }: StackContext) {
   const site = new StaticSite(this, 'WhitepaperSite', {
     path: '.',
     buildOutput: 'public',
-    buildCommand: `build`,
+    buildCommand: `yarn build`,
     errorPage: 'redirect_to_index_page',
     customDomain: zoneName,
     cdk: {
