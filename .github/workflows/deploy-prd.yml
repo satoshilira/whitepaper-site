@@ -24,17 +24,24 @@ jobs:
 
     - name: Checkout
       uses: actions/checkout@v3
-
+      with:
+        submodules: recursive
+  
     - name: Set up node
       uses: actions/setup-node@v3
       with:
         node-version: '16'
         cache: 'yarn'
-
+  
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.110.0'
+  
     - name: Install
       run: yarn
-
+  
     - name: Deploy
-      run: yarn sst:prd:deploy
+      run: yarn sst:deploy
       env:
         CI: false
