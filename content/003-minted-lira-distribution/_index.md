@@ -32,6 +32,5 @@ The distribution of the remaining LIRA following the initial divisions occurs as
                                     Costs =  2%
                                 Marketing =  1%
 
-<h4>The burn strategy is applied to implement a compensation mechanism for the minted presale supply and to increase, over time, the intrinsic 
-value of LIRA in BTC.</h4>
+
 
