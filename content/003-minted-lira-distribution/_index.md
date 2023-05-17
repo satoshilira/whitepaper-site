@@ -6,8 +6,8 @@ weight: 50
 url: '/minted-lira-distribution'
 ---
 
-Every time an equivalent amount of BTC is collected in the value reserve under smart contract, a new block of LIRA is minted.
-As previously stated, the ratio is 1 LIRA to 1 SATOSHI.
+Every time an amount of BTC is collected in the value reserve under a smart contract, a new block of LIRA is minted.
+Based on the ratio between the number of BTC locked in the contract and the LIRA supply, the starting ratio is 1 LIRA to 1 SATOSHI.
 
 ---
 
@@ -25,8 +25,7 @@ The distribution of the remaining LIRA following the initial divisions occurs as
 
     LIRA Treasury Bond (TB) Token Staking = 50%
                                      TEAM = 15%                              
-                                      REF = 10%
-                         Liquidity Mining = 10%
+                         Liquidity Mining = 20%
                               Development =  5%
                               Unallocated =  4%
                 Financing / DAO Decisions =  3%

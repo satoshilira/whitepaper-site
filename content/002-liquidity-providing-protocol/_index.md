@@ -16,4 +16,4 @@ Once the capital is allocated, the LIRA protocol collects rewards from all utili
 
 10% of the rewards are retained by the Satoshi LIRA team in form of native coins.
 
-![Kraken BTC Vault](/images/kraken-btc-vault.png)
+![Kraken BTC Vault](/images/krakenfinale.png)

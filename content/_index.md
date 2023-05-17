@@ -11,7 +11,7 @@ is a revolutionary project whose protocol makes it possible to generate profit f
 
 The liquidity provider activity is the core business of the Satoshi LIRA protocol.
 Acting as liquidity provider, the protocol is able to provide a yield that is not dependant on transaction fees.
-The value generated in this way is converted into BTC and locked in a vault to create the LIRA derivative with a ratio of
+The value generated in this way is converted into BTC and locked in a vault to create the LIRA derivative with a *starting* ratio of
 
 <h5>1 LIRA = 1 SATOSHI</h5>
 
