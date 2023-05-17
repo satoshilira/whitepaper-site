@@ -1,0 +1,22 @@
+{
+  "name": "@satoshilira/white-paper",
+  "version": "1.0.0",
+  "description": "Satoshi LIRA whitepaper",
+  "repository": "git@github.com:satoshilira/whitepaper-site.git",
+  "author": "thelroth <thelroth@satoshilira.io>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "sst:build": "sst build",
+    "sst:deploy": "sst deploy --stage tst --region eu-west-1",
+    "sst:remove": "sst remove --stage tst --region eu-west-1",
+    "sst:prd:deploy": "sst deploy --stage prd --region eu-central-1"
+  },
+  "devDependencies": {
+    "sst": "^2.8.24",
+    "aws-cdk-lib": "2.72.1",
+    "constructs": "10.1.156",
+    "typescript": "^5.0.4",
+    "@tsconfig/node16": "^1.0.4"
+  }
+}
