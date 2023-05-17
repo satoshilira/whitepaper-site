@@ -13,7 +13,7 @@ export function WhitepaperSiteStack({ stack }: StackContext) {
     errorPage: 'redirect_to_index_page',
     customDomain: {
       domainName,
-      hostedZone: 
+      hostedZone,
     },
     cdk: {
       bucket: {
