@@ -1,5 +1,5 @@
 import { SSTConfig } from "sst";
-import { PublicSiteStack } from "./stacks/PublicSiteStack";
+import { WhitepaperSiteStack } from "./stacks/WhitepaperSiteStack";
 
 export default {
   config(_input) {
@@ -9,6 +9,6 @@ export default {
     };
   },
   stacks(app) {
-    app.stack(PublicSiteStack);
+    app.stack(WhitepaperSiteStack);
   }
 } satisfies SSTConfig;

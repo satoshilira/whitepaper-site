@@ -1,14 +1,14 @@
 import { RemovalPolicy } from "aws-cdk-lib";
 import { StackContext, Api, StaticSite } from "sst/constructs";
 
-export function PublicSiteStack({ stack }: StackContext) {
+export function WhitepaperSiteStack({ stack }: StackContext) {
 
-  const zoneName = `satoshilira.${stack.stage === "prd" ? "io" : "xyz"}`;
+  const zoneName = `whitepaper.satoshilira.${stack.stage === "prd" ? "io" : "xyz"}`;
 
-  const site = new StaticSite(this, 'PublicSite', {
+  const site = new StaticSite(this, 'WhitepaperSite', {
     path: '.',
-    buildOutput: 'build',
-    buildCommand: `npm run build`,
+    buildOutput: 'public',
+    buildCommand: `hugo`,
     errorPage: 'redirect_to_index_page',
     customDomain: zoneName,
     cdk: {
