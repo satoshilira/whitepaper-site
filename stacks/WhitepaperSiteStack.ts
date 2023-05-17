@@ -3,14 +3,18 @@ import { StackContext, Api, StaticSite } from "sst/constructs";
 
 export function WhitepaperSiteStack({ stack }: StackContext) {
 
-  const zoneName = `whitepaper.satoshilira.${stack.stage === "prd" ? "io" : "xyz"}`;
-
+  const hostedZone = `satoshilira.${stack.stage === "prd" ? "io" : "xyz"}`;
+  const domainName = `whitepaper.satoshilira.${stack.stage === "prd" ? "io" : "xyz"}`;
+  
   const site = new StaticSite(this, 'WhitepaperSite', {
     path: '.',
     buildOutput: 'public',
     buildCommand: `hugo --config ${stack.stage === 'prd' ? 'config_prd.toml' : 'config_dev.toml'}`,
     errorPage: 'redirect_to_index_page',
-    customDomain: zoneName,
+    customDomain: {
+      domainName,
+      hostedZone: 
+    },
     cdk: {
       bucket: {
         removalPolicy: RemovalPolicy.DESTROY,
