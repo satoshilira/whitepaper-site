@@ -5,7 +5,30 @@ weight: 2
 url: '/commodities-rebase-token'
 ---
 
+The LIRA ecosystem introduces
+a novel trading feature that allows users to trade rebase tokens
+paired with commonly traded commodities. This innovative approach
+provides users with the opportunity to diversify their portfolios and
+engage in new trading strategies while benefitting from the inherent
+stability of commodity-backed tokens.
 
-To fill one of the major gaps in the crypto sector, namely the inability to invest one's cryptocurrencies in traditional market assets, the LIRA DeX provides a token rebase system designed to emulate the price of certain commodities. The target value of these tokens is determined by an oracle that observes the price fluctuations of the relevant commodities in the traditional market. a pre-determined hourly rebasing mechanism is then applied to maintain the token's price fidelity to the reference commodity.
+ **Price Stability and Rebase Mechanism**
+
+ Rebase tokens within the
+LIRA ecosystem maintain price stability through a carefully designed
+rebase mechanism. This mechanism adjusts the token's supply
+periodically to ensure its value remains pegged to the underlying
+commodity, thus providing users with a reliable and secure trading
+experience.
+
+**Trading Opportunities**
+
+The introduction of rebase tokens paired
+with commonly traded commodities opens up new avenues for trading and
+investment within the LIRA ecosystem. Users can leverage the stability
+and value appreciation potential of these tokens to diversify their
+holdings and explore alternative trading strategies.
+
+
 
 ![Grafico Hydra](/images/Hydranew.png)
