@@ -6,29 +6,55 @@ weight: 60
 url: '/lira-treasury-bonds'
 ---
 
-Lira Treasury Bonds, or TB Tokens, are the tools that the LIRA ecosystem uses to deflate the circulating supply of LIRA and, in any case, make free trade possible for the owners of these values.
+The LIRA Treasury Bonds (TB) Tokens play a crucial role in deflating
+the circulating supply of LIRA and facilitating seamless trading for
+holders within the LIRA ecosystem.
 
-The are three types of TB tokens: TBg(gold), TBs(silver), TBb(bronze). 
+**Types of TB Tokens**
 
-Each TB token represents a portion of the LIRA supply according to this list:
+There are three types of TB Tokens, each
+representing a specific portion of the LIRA supply:
 
     TBg = 10.000.000,00 LIRA
     TBs =  1.000.000,00 LIRA
     TBb =    100.000,00 LIRA
 
-The creation of the TB tokens takes place after the minting of the LIRA mother block, and therefore having locked the BTC amount in the vault.
-Once the new LIRA have been issued, 80% is allocated to the minting of TB tokens with the following proportion:
+**Creation of TB Tokens**
+
+The creation of TB Tokens occurs subsequent
+to the minting of the LIRA mother block, after the corresponding BTC
+amount has been locked in the vault. Once the new LIRA tokens are
+issued, 80% of the newly minted LIRA is allocated to the creation of
+TB Tokens, distributed in the following proportions:
 
     50% in TBb Tokens
     30% in TBs Tokens
     20% in TBg Tokens
 
-The LIRA used for the minting of the TB tokens are also locked in a vault.
+The LIRA tokens used for minting TB Tokens are locked within a
+designated vault, ensuring their secure storage.
+
+**Maximizing Profit with TB Tokens**
+
+Ownership of TB Tokens unlocks
+the potential for maximizing profits within the LIRA ecosystem, as
+explained in previous sections of this white paper. By holding TB
+Tokens, participants gain enhanced access to the benefits and rewards
+offered by the ecosystem, positioning them to capitalize on the growth
+and value generated within the LIRA network.
 
 
+---
 
-Every time new TB tokens are minted, a portion is burned through the burn mechanism, but the equivalent in LIRA remains within the contract. This ensure that the intrinsic value of LIRA steadily increases over time.
+LIRA Treasury Bonds (TB) Tokens are instrumental in
+deflating the circulating supply of LIRA and facilitating trading for
+holders. With three distinct types of TB Tokens representing varying
+portions of the LIRA supply, the ecosystem ensures flexibility and
+accessibility. By allocating a significant portion of newly minted
+LIRA to the creation of TB Tokens and securing them in a dedicated
+vault, the LIRA ecosystem promotes stability and value appreciation.
+Owning TB Tokens grants users the opportunity to maximize their profit
+potential within the LIRA ecosystem, further strengthening the overall
+economic and financial independence offered by the project.
 
-
-Every user can burn their TB tokens at any time and receive back the equivalent of their value in LIRA.
-This allows every TB token holder to have the mathematical certainty that, in a completely passive manner, regardless of their activities within the Satoshi LIRA ecosystem, the intrinsic value of their TB token will constantly grow over time.
+---
