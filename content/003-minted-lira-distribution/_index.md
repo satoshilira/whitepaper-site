@@ -49,50 +49,48 @@ remaining LIRA tokens is as follows:
 
 **LIRA Distribution Channels**
 
-A significant portion, 50% of the remaining LIRA tokens, is
+A significant portion, *50%* of the remaining LIRA tokens, is
 allocated for LIRA Treasury Bond (TB) token staking. TB tokens provide
 holders with the opportunity to stake their LIRA tokens and earn
 additional rewards, thereby encouraging long-term engagement within
 the Satoshi LIRA ecosystem.
 
-A portion of 20% of the remaining LIRA tokens
+A portion of *20%* of the remaining LIRA tokens
 is dedicated to liquidity mining activities. This allocation
 incentivizes liquidity providers to participate in the ecosystem,
 contributing to the stability and liquidity of the Satoshi LIRA
 protocol.
 
 To ensure the growth and awareness of the Satoshi
-LIRA project, 1% of the remaining LIRA tokens are allocated for
+LIRA project, *1%* of the remaining LIRA tokens are allocated for
 marketing activities. These resources facilitate strategic marketing
 campaigns, fostering adoption and attracting new participants to the
 ecosystem.
 
 To recognize the ongoing contributions of the project
-team, 15% of the remaining LIRA tokens are allocated to the team. This
+team, *15%* of the remaining LIRA tokens are allocated to the team. This
 allocation ensures the team's continued commitment and dedication to
 the development and success of the Satoshi LIRA protocol.
 
 To support the continuous enhancement and
-maintenance of the protocol, 5% of the remaining LIRA tokens are
+maintenance of the protocol, *5%* of the remaining LIRA tokens are
 allocated to development efforts. These resources enable the team to
 implement necessary upgrades, improvements, and expansions within the
 Satoshi LIRA ecosystem.
 
-A portion of 2% of the remaining LIRA tokens is
+A portion of *2%* of the remaining LIRA tokens is
 allocated for covering operational costs. These resources ensure the
 smooth functioning and sustainability of the Satoshi LIRA project.
 
 To facilitate the governance and decision-making processes within the Satoshi LIRA
-ecosystem, 3% of the remaining LIRA tokens are allocated for
+ecosystem, *3%* of the remaining LIRA tokens are allocated for
 Financing Dao services/decisions. This allocation empowers the
 community to participate actively in shaping the future direction of
 the project.
 
-Financing: Dao Services/Decisions: To facilitate the
-governance and decision-making processes within the Satoshi LIRA
-ecosystem, 3% of the remaining LIRA tokens are allocated for AZ
-Financing: Dao services/decisions. This allocation empowers the
-community to participate actively in shaping the future direction of
-the project.
+Finally, *4%* of the remaining LIRA tokens are left
+unallocated. These tokens can be used for future initiatives,
+partnerships, or additional development, providing flexibility to
+adapt to evolving market needs.
 
 

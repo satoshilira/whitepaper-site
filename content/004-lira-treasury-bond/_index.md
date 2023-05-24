@@ -43,7 +43,8 @@ Tokens, participants gain enhanced access to the benefits and rewards
 offered by the ecosystem, positioning them to capitalize on the growth
 and value generated within the LIRA network.
 
-**Conclusion**
+
+---
 
 LIRA Treasury Bonds (TB) Tokens are instrumental in
 deflating the circulating supply of LIRA and facilitating trading for
@@ -55,3 +56,5 @@ vault, the LIRA ecosystem promotes stability and value appreciation.
 Owning TB Tokens grants users the opportunity to maximize their profit
 potential within the LIRA ecosystem, further strengthening the overall
 economic and financial independence offered by the project.
+
+---

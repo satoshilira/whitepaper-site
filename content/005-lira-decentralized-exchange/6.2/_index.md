@@ -42,12 +42,12 @@ establishes the initial exchange pool for the Token/LIRA pair at a 1:2
 token-to-dollar ratio. Each presale will have LIRA as the fixed pair
 in the exchange pools.
 
-**Conclusion**
+---
 
 The Launchpad serves as a gateway for companies and
 projects to join the LIRA ecosystem, enabling presales and integration
 opportunities for Web3 projects. Through the presale mechanism,
-community members with active TBT staking can participate in token
+community members with active TB Tokens staking can participate in token
 sales, fostering a fair and inclusive environment. The Launchpad not
 only empowers investors to support promising projects but also
 establishes a solid foundation for future growth within the LIRA
@@ -58,5 +58,6 @@ vibrancy of the LIRA community. The Launchpad represents a key
 component of LIRA's commitment to innovation, collaboration, and the
 democratization of the cryptocurrency sector.
 
+---
 
 
