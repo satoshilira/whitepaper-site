@@ -51,6 +51,20 @@ traded commodities. The unique rebase mechanism of CRT ensures its
 price stability and provides users with exposure to the commodities
 market.
 
+**Ecosystem Fees Management**
+
+Within the comprehensive Satoshi LIRA ecosystem, all fees collected from transactions on
+the DEX, staking, LIRA smart contracts, and other components are diligently accumulated in
+a dedicated vault. A fair 50/50 split occurs daily, with 50% of the fees allocated to the LIRA
+Team (to offset the cost of LIRA and TB minting), and the remaining 50% utilized as follows:
+    50% for DEX liquidity support.
+    20% for DAO funding.
+    20% for liquidity provider activity.
+    10% for LIRA and TB buyback (used for LP farming).
+In this manner, we ensure prudent and transparent fee management within our ecosystem.
+Our priority is to create a sustainable and prosperous environment for all Satoshi LIRA
+users, and prudent fee management is a fundamental aspect of this vision.
+
 
 ---
 

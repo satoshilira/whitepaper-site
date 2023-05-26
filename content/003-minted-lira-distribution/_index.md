@@ -33,7 +33,7 @@ LIRA ecosystem.
 
 **Distribution Breakdown**
 
-he distribution breakdown of the
+The distribution breakdown of the
 remaining LIRA tokens is as follows:
 
 
