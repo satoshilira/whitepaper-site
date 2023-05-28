@@ -1,6 +1,7 @@
 {
   "name": "@satoshilira/white-paper",
-  "version": "1.1.0",
+  "version": "1.2.0",
+
   "description": "Satoshi LIRA whitepaper",
   "repository": "git@github.com:satoshilira/whitepaper-site.git",
   "author": "thelroth <thelroth@satoshilira.io>",
