@@ -12,11 +12,26 @@ Therefore, structuring the presale traditionally would undermine the fundamental
 
 **Sacrifice Phase**
 
-The sacrifice phase consists of ten sub-phases, each lasting one week, with a maximum amount of 1 wBTC that can be sacrificed per
-sub-phase. Each sacrifice made during the phases receives a bonus following the Fibonacci sequence, starting at 55%.
+The sacrifice phase consists of three sub-phases, each lasting one week, with a maximum amount of 1 wBTC that can be sacrificed per
+sub-phase.
 The first phase is called the sacrifice phase because users are required to visit our platform and sacrifice a desired amount of wBTC.
 Depending on the sub-phase in which the sacrifice is made, users will receive a bonus when redeeming their sacrifice based on the 
 corresponding sub-phase.
+
+**Pricing Structure**
+
+To further align with our mission and maintain the concept of Satoshi LIRA as a BTC derivative, we have set the pricing structure for each sub-phase.
+
+The prices per 1 LIRA will be fixed as follows:
+
+---
+
+    First Sub-Phase: 1 Satoshi
+    Second Sub-Phase: 1.6 Satoshi
+    Third Sub-phase: 2 Satoshi
+
+---
+
 
 **Reward Phase of Sacrifice**
 
