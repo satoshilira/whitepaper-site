@@ -43,4 +43,4 @@ are not only an investment vehicle but an integral part of everyday
 life, fostering economic independence and empowering individuals to
 thrive in the digital economy.
 
-![Lira protocol overview](/images/graficocompletofinale1.png)
+![Lira protocol overview](/images/liraoverview.png)
