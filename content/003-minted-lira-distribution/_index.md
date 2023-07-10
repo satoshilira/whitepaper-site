@@ -41,8 +41,8 @@ remaining LIRA tokens is as follows:
                                      TEAM = 15%                              
                                LP Staking = 20%
                               Development =  5%
-                           Green Energy P =  5%
-                               The Nest P =  5%
+                   Green Energy Producers =  5%
+                       The Nest Partakers =  5%
                                 Liquidity =  4%
                                  DAO Fund =  3%
                                     Costs =  2%
