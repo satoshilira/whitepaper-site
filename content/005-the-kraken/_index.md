@@ -2,7 +2,7 @@
 title: "The Kraken: Igniting the Satoshi LIRA Ecosystem"
 date:
 draft: false
-weight: 40
+weight: 60
 url: '/the-kraken'
 ---
 
