@@ -2,7 +2,7 @@
 title: "Minted LIRA distribution"
 date:
 draft: false
-weight: 50
+weight: 40
 url: '/minted-lira-distribution'
 ---
 

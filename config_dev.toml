@@ -14,7 +14,7 @@ enableMissingTranslationPlaceholders = false
     # Source Code repository section
     description = "The cryptocurrency global revolution"
     github_repository = "https://github.com/satoshilira/whitepaper-site"
-    version = "2.0.0"
+    version = "2.2.1"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)

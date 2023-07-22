@@ -1,7 +1,7 @@
 ---
 title: The Nest, Empowering Ecosystem Members through Ethereum PoS Mining
 draft: false
-weight: 58
+weight: 55
 url: /the-nest
 ---
 

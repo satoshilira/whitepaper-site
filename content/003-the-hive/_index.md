@@ -1,7 +1,7 @@
 ---
 title: The Hive, Pioneering Sustainable Finance through Bitcoin Social Mining
 draft: false
-weight: 55
+weight: 50
 url: /the-hive
 ---
 
