@@ -68,4 +68,4 @@ the transformative potential of blockchain technology.
 ---
 
 
-![The Hive](/images/thehive.png)
+![The Hive](/images/The-hive-final.png)

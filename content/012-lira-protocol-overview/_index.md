@@ -7,4 +7,4 @@ url: '/lira-protocol-overview'
 ---
 
 
-![Lira protocol overview](/images/liraoverview.png)
+![Lira protocol overview](/images/lira-overview-final-version.png)
