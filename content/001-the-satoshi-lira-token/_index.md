@@ -1,7 +1,7 @@
 ---
 title: "The Satoshi LIRA Token: Bridging the Gap Between Bitcoin and Everyday Life"
 date:
-draft: false
+draft: true
 weight: 10
 url: '/LIRA-token'
 ---
