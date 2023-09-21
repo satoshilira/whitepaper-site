@@ -1,6 +1,6 @@
 ---
 title: The DAO Social Economy, Empowering Community Driven Impact
-draft: false
+draft: true
 weight: 92
 url: '/dao-social-economy'
 ---

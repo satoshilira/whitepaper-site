@@ -1,6 +1,6 @@
 ---
 title: Governance and YOSHI token
-draft: false
+draft: true
 weight: 80
 url: '/governance'
 ---

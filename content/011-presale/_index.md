@@ -1,6 +1,6 @@
 ---
 title: Fair Launch
-draft: false
+draft: true
 weight: 95
 url: '/fair-launch'
 ---

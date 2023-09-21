@@ -1,7 +1,7 @@
 ---
 title: "Lira protocol overview and conclusion"
 date:
-draft: false
+draft: true
 weight: 100
 url: '/lira-protocol-overview'
 ---

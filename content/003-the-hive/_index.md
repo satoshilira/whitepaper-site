@@ -1,6 +1,6 @@
 ---
 title: The Hive, Pioneering Sustainable Finance through Bitcoin Social Mining
-draft: false
+draft: true
 weight: 50
 url: /the-hive
 ---
@@ -66,6 +66,5 @@ dedication to creating a social supportive economy, The Hive embodies
 the transformative potential of blockchain technology.
 
 ---
-
 
 ![The Hive](/images/The-hive-final.png)

@@ -1,6 +1,6 @@
 ---
 Title: Commodities Rebase Token
-draft: false
+draft: true
 weight: 2
 url: '/commodities-rebase-token'
 ---
