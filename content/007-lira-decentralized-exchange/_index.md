@@ -10,9 +10,7 @@ url: '/lira-decentralized-exchange'
 
 The Satoshi LIRA ecosystem offers a decentralized exchange (DEX) that
 revolutionizes the way users trade cryptocurrencies. With additional
-features such as liquidity mining, staking, and the innovative trading
-of CRT (Commodity Rebase Tokens), which are paired with commonly
-traded commodities, the LIRA DEX provides a secure and transparent
+features such as liquidity mining and staking, the LIRA DEX provides a secure and transparent
 platform for seamless cryptocurrency exchanges. By harnessing
 decentralized technologies, the DEX eliminates the need for
 intermediaries and fosters a trustless environment for users.

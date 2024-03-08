@@ -15,9 +15,9 @@ individuals. As pioneers in the blockchain space, we recognize the
 transformative potential of decentralized technologies in
 revolutionizing the financial landscape and empowering individuals.
 
-**The Mission of the Satoshi LIRA Ecosystem**
+**The Mission of the LIRA Ecosystem**
 
-The Satoshi LIRA ecosystem sets out on a mission to create a
+The LIRA ecosystem sets out on a mission to create a
 supportive economy that runs alongside the traditional system.
 Leveraging the power of blockchain technology, LIRA aims to provide a
 seamless bridge between the crypto world and everyday life, catering
@@ -28,7 +28,7 @@ finance and mining directly into the hands of individuals.
 
 **Decentralized Finance (DeFi) within the LIRA Ecosystem**
 
-The Satoshi LIRA ecosystem embraces the principles of decentralized
+The LIRA ecosystem embraces the principles of decentralized
 finance (DeFi), unlocking a multitude of financial opportunities for
 individuals. Through decentralized applications (DApps), users can
 access a wide range of financial services such as lending, borrowing,
@@ -39,7 +39,7 @@ creation of value.
 
 **Mining and Wealth Generation**
 
-Mining plays a crucial role in the Satoshi LIRA ecosystem, where
+Mining plays a crucial role in the LIRA ecosystem, where
 cutting-edge technologies and energy-efficient practices are employed.
 By harnessing the power of green energy sources and employing the
 latest generation of mining equipment, the ecosystem minimizes energy
@@ -48,7 +48,7 @@ through mining is then directed back into the ecosystem, fueling its
 growth and ensuring long-term sustainability.
 
 **Decentralized Autonomous Organization (DAO)**
-At the heart of the Satoshi LIRA ecosystem lies a community-governed
+At the heart of the LIRA ecosystem lies a community-governed
 DAO. Through the DAO, every participant has a voice and can actively
 contribute to the decision-making process. By leveraging blockchain's
 inherent transparency and immutability, the DAO enables fair voting
@@ -57,7 +57,7 @@ opinions matter.
 
 **Community Voting and Empowerment**
 
-Community voting serves as the backbone of the Satoshi LIRA ecosystem,
+Community voting serves as the backbone of the LIRA ecosystem,
 enabling participants to shape its development, propose improvements,
 and allocate resources. The power of collective decision-making
 ensures inclusivity, transparency, and the alignment of the
