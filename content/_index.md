@@ -1,6 +1,6 @@
 ---
 Title: Homepage Satoshi LIRA whitepaper site
-draft: true
+draft: false
 weight: 1
 ---
 
