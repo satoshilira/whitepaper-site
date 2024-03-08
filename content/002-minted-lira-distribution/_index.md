@@ -1,7 +1,7 @@
 ---
-title: "Minted LIRA distribution"
+title: "Minted Satoshi LIRA distribution"
 date:
-draft: true
+draft: false
 weight: 40
 url: '/minted-lira-distribution'
 ---
@@ -16,7 +16,7 @@ mentioned, the minting ratio is set at 1 Satoshi to 1 LIRA.
 **Intrinsic Value and Burning Mechanism**
 
 The Satoshi LIRA protocol
-maintains the intrinsic value of LIRA at 1 Satoshi, equivalent to
+The starting value of LIRA is fixed at 1 Satoshi, equivalent to
 0.00000001 BTC. To support the preservation of value, 1% of the total
 newly minted LIRA tokens from each block are burned. This burning
 mechanism reduces the supply, thus creating scarcity and enhancing the
@@ -34,18 +34,14 @@ LIRA ecosystem.
 **Distribution Breakdown**
 
 The distribution breakdown of the
-remaining LIRA tokens is as follows:
+remaining Satoshi LIRA tokens is as follows:
 
 
     LIRA Treasury Bond (TB) Token Staking = 40%
                                      TEAM = 15%                              
                                LP Staking = 20%
-                              Development =  5%
                    Green Energy Producers =  5%
-                       The Nest Partakers =  5%
-                                Liquidity =  4%
-                                 DAO Fund =  3%
-                                    Costs =  2%
+                                 DAO Fund =  19%
                                 Marketing =  1%
 
 
@@ -68,36 +64,16 @@ team, *15%* of the remaining LIRA tokens are allocated to the team. This
 allocation ensures the team's continued commitment and dedication to
 the development and success of the Satoshi LIRA protocol.
 
-To support the continuous enhancement and
-maintenance of the protocol, *5%* of the remaining LIRA tokens are
-allocated to development efforts. These resources enable the team to
-implement necessary upgrades, improvements, and expansions within the
-Satoshi LIRA ecosystem.
-
 A significant portion of the minted LIRA tokens, specifically *5%* of the
 distribution, is allocated to green energy producers. This allocation demonstrates
 the committment of the Satoshi LIRA ecosystem to promote and support sustainable
 practises whithin the cryptocurrency industry.
 
-A portion of *5%* of the LIRA tokens is allocated to The Nest partakers. 
-This allocation underscores the committment of the Satoshi LIRA to empower and
-reward those who actively participate in the sustainable mining operations within The Nest.
-
-To foster a robust and efficient decentralized exchange platform, *4%* of the distribution
-is allocated as liquidity into liquidity pools on the LIRA Dex. By providing liquidity
-to the pools, LIRA ensures a seamless trading experience for users and promotes liquidity depth
-within the ecosystem. This allocation enhances the overall trading environment, reducing
-slippage and facilitating efficient transactions.
-
 To facilitate the governance and decision-making processes within the Satoshi LIRA
-ecosystem, *3%* of the remaining LIRA tokens are allocated for
-Financing Dao services/decisions. This allocation empowers the
+ecosystem, *19%* of the remaining LIRA tokens are allocated for
+Financing Dao services/decisions/expenses. This allocation empowers the
 community to participate actively in shaping the future direction of
 the project.
-
-A portion of *2%* of the remaining LIRA tokens is
-allocated for covering operational costs. These resources ensure the
-smooth functioning and sustainability of the Satoshi LIRA project.
 
 To ensure the growth and awareness of the Satoshi
 LIRA project, *1%* of the remaining LIRA tokens are allocated for

@@ -5,7 +5,7 @@ weight: 50
 url: /the-hive
 ---
 
-**Introduction to The Hive**
+**Introduction to the Bitcoin Social Mining**
 
 At the heart of the Satoshi LIRA ecosystem lies The Hive, an
 innovative initiative supported by a traditional non-profit
