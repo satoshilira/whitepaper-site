@@ -40,7 +40,7 @@ At its core, LIRA Chain serves as the Interconnection Main Infrastructure, actin
 
 ---
 
-Conclusion: LIRA Chain's Unifying Impact
+**LIRA Chain's Unifying Impact**
 
 In summary, LIRA Chain stands as a pivotal solution, tailored for the specific needs of nations. With Layer 1 serving as a dynamic bridge between private businesses and public administrations, LIRA Chain establishes a harmonious ecosystem that not only reduces transaction costs and enhances efficiency but also fosters innovation and collaboration. As the Interconnection Main Infrastructure, it ensures seamless connections between diverse private blockchains, guaranteeing the integrity and security of shared information. LIRA Chain's unique approach transcends traditional boundaries, making the benefits of blockchain accessible to all while propelling societal progress through a unified and trustworthy platform.
 
