@@ -5,8 +5,12 @@ weight: 80
 url: '/yoshi-token'
 ---
 
-The Yoshi Token serves as the fundamental element of the democratic,
-decentralized, and free governance system within the LIRA ecosystem.
+**Voting Incentives**
+
+The YOSHI token has been developed with a singular purpose: to incentivize users to actively engage in the DAO's governance processes. This token serves as a direct reward for community members who participate in voting activities. Unlike other tokens, YOSHI is exclusively designed to encourage community involvement in decision-making. In addition to its incentive role, YOSHI will feature staking and liquidity pools, providing users with the opportunity to further engage with the token. While it possesses its own market value, akin to any other token, YOSHI's intrinsic worth lies in its function as a tool for promoting active participation and shaping the collective future of our decentralized ecosystem.
+
+**Token Distribution**
+
 With a total fixed supply of 210,000,000,000,000,000,000,000 YOSHI
 tokens, the distribution of tokens is structured as follows:
 
@@ -26,9 +30,7 @@ halving event each time 50% of the remaining coins to be minted are
 reached.
 
 
-**Voting Incentives**
 
-The YOSHI token has been developed with a singular purpose: to incentivize users to actively engage in the DAO's governance processes. This token serves as a direct reward for community members who participate in voting activities. Unlike other tokens, YOSHI is exclusively designed to encourage community involvement in decision-making. In addition to its incentive role, YOSHI will feature staking and liquidity pools, providing users with the opportunity to further engage with the token. While it possesses its own market value, akin to any other token, YOSHI's intrinsic worth lies in its function as a tool for promoting active participation and shaping the collective future of our decentralized ecosystem.
 
 
 
