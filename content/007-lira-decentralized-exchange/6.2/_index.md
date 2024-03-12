@@ -1,6 +1,6 @@
 ---
 title: Launchpad
-draft: true
+draft: false
 weight: 4
 url: '/launchpad'
 ---
@@ -15,32 +15,11 @@ Web3 projects.
 **Presale Participation**
 
 The Launchpad offers various presales where
-community members with active TBT (LIRA Treasury Bonds) staking on the
+community members with active TB (Treasury Bonds) staking on the
 platform can participate. Presales are chosen through a voting process
 conducted by the LIRA DAO community, ensuring a transparent and
 democratic selection of projects to be launched.
 
-**Presale Mechanics**
-
-During a presale, the project's tokens are
-made available for purchase at a base price of $1, with the token
-supply cap determined by the project itself. Community members can
-contribute funds to the presale, and if the funds raised either exceed
-or fall below the 1:1 token-to-dollar ratio, the sale will continue
-until the set time limit expires.
-
-**Token Distribution**
-
-At the conclusion of the presale, the
-project's tokens will be distributed proportionally to the investors
-based on the funds raised. The value achieved during the presale will
-be the starting value for the tokens in the exchange pools. For
-example, if the presale supply is 100,000 tokens and $200,000 is
-raised, an investor who purchased $1,000 worth of tokens can receive
-500 tokens, considering the final presale value of $2 each. This
-establishes the initial exchange pool for the Token/LIRA pair at a 1:2
-token-to-dollar ratio. Each presale will have LIRA as the fixed pair
-in the exchange pools.
 
 ---
 
