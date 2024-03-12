@@ -1,60 +1,25 @@
 ---
-title: Governance and YOSHI token
-draft: true
-weight: 80
+title: Governance
+draft: false
+weight: 8
 url: '/governance'
 ---
 
-The Yoshi Token serves as the fundamental element of the democratic,
-decentralized, and free governance system within the LIRA ecosystem.
-With a total fixed supply of 210,000,000,000,000,000,000,000 YOSHI
-tokens, the distribution of tokens is structured as follows:
+DAOs, or Decentralized Autonomous Organizations, represent an innovative approach to governance and administration through the use of smart contracts based on the blockchain. These contracts, executed on a blockchain such as Ethereum, allow for the creation of completely decentralized and autonomous organizational structures managed by the community itself without the need for central intermediaries.
 
+**Mechanism of Operation**
+The governance model of a DAO is based on key principles that ensure participation, transparency, and autonomy. Here's an overview of the functioning mechanism:
 
-     5%  Team LIRA         -  10,500,000,000,000,000,000,000   (1.05x10^22)    (pre-minted)
-     5%  Liquidity         -  10,500,000,000,000,000,000,000   (1.05x10^22)    (pre-minted)
-    10%  Pre-sale          -  21,000,000,000,000,000,000,000    (2.1x10^22)    (pre-minted)
-    20%  Airdrop           -  42,000,000,000,000,000,000,000    (4.2x10^22)    (pre-minted)
-    60%  Incentive Staking - 126,000,000,000,000,000,000,000   (1.26x10^23)
+**Smart Contracts**
+ The DAO is built on smart contracts, which are executable codes on the blockchain. These contracts define the operational rules of the DAO, including decision-making processes, token distribution, and fund management.
 
-**Minting Mechanism**
+**Token Governance**
+ DAO members hold tokens that grant them voting rights and participation in decisions. The number of tokens held by a member may influence the weight of their decisions in governance.
 
-The minting process for YOSHI tokens follows a
-specific pattern. Initially, 13,808,219,200,000 YOSHI tokens are
-minted per block. Subsequently, the block production undergoes a
-halving event each time 50% of the remaining coins to be minted are
-reached.
+**Proposals and Voting** 
+Members can propose ideas, decisions, or changes to existing rules. Proposals are voted on by the community using tokens held by individual members. Decisions are then automatically implemented through smart contracts on the blockchain.
 
-**Governance through YOSHI Tokens**
+**Upgrades and Evolution**
+ The nature of DAOs allows for continuous evolution. Members can propose changes to smart contracts or the rules themselves, enabling the DAO to adapt to the evolving needs of the community.
 
-The YOSHI token assumes the role
-of a governance token, granting holders the power to participate in
-decision-making processes within the LIRA ecosystem. When a proposal
-is presented to the community, users can actively engage in the voting
-process by depositing their YOSHI tokens into the relevant vault
-associated with the proposal. The LIRA protocol conducts the voting,
-and the proposal with the highest number of votes is declared the
-winner.
-
-**Voting Incentives**
-
-To encourage active participation and
-engagement in the governance process, a unique voting incentive
-mechanism is implemented. Users who voted for rejected proposals
-receive 80% of their YOSHI tokens back, effectively allowing them to
-retain the majority of their voting stake.
-
-The remaining 20% of the YOSHI tokens used for rejected proposals are
-distributed as follows: 80% goes to users who voted for the approved
-proposal in the form of an airdrop, and 20% is divided between the
-LIRA team and the LIRA ecosystem, with a 10% allocation to the team
-and a 90% allocation to the ecosystem.
-
-**Empowering Community Decision-Making**
-
-By utilizing the Yoshi Token
-as the governance mechanism, the LIRA ecosystem ensures that all
-significant decisions are made collectively by the community. This
-democratic approach empowers users to actively shape the future
-direction and development of the ecosystem, fostering transparency,
-inclusivity, and decentralization.
+Implementing a DAO provides transparency, censorship resistance, and decentralization.
