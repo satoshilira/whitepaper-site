@@ -1,7 +1,7 @@
 ---
 title: LDT presale
 draft: false
-weight: 13
+weight: 15
 url: '/LDT-presale'
 ---
 
