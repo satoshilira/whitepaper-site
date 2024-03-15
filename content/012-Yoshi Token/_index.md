@@ -1,6 +1,6 @@
 ---
 title: YOSHI token
-draft: true
+draft: false
 weight: 12
 url: '/yoshi-token'
 ---
