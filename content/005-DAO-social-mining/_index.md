@@ -2,7 +2,7 @@
 title: Pioneering Sustainable Finance through the DAO Bitcoin Social Mining
 draft: false
 weight: 5
-url: /the-hive
+url: '/dao-social-mining'
 ---
 
 **Introduction to the DAO Social Mining**
