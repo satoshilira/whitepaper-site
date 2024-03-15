@@ -15,10 +15,10 @@ With a total fixed supply of 210,000,000,000,000,000,000,000 YOSHI
 tokens, the distribution of tokens is structured as follows:
 
 
-     5%  Team LIRA          -  10,500,000,000,000,000,000,000   (1.05x10^22)    (pre-minted)
-     5%  Liquidity          -  10,500,000,000,000,000,000,000   (1.05x10^22)    (pre-minted)
-    10%  Incentive Staking  -  21,000,000,000,000,000,000,000    (2.1x10^22)    (pre-minted)
-    20%  Airdrop            -  42,000,000,000,000,000,000,000    (4.2x10^22)    (pre-minted)
+     5%  Team LIRA          -  10,500,000,000,000,000,000,000   (1.05x10^22)   
+     5%  Liquidity          -  10,500,000,000,000,000,000,000   (1.05x10^22)   
+    10%  Incentive Staking  -  21,000,000,000,000,000,000,000    (2.1x10^22)  
+    20%  Airdrop            -  42,000,000,000,000,000,000,000    (4.2x10^22)   
     60%  Governance Rewards - 126,000,000,000,000,000,000,000   (1.26x10^23)
 
 **Minting Mechanism**

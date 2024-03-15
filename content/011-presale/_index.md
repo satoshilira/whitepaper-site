@@ -1,44 +1,22 @@
 ---
-title: Fair Launch
-draft: true
+title: LDT presale
+draft: false
 weight: 13
-url: '/fair-launch'
+url: '/LDT-presale'
 ---
 
-The Satoshi LIRA presale and its tokens, LIRA / TBg / TBs / TBb and YOSHI, are structured into two distinct phases: the sacrifice
-phase and the reward phase of sacrifice. This Presale is designed to establish a sound and ethical token economics from day zero,
-aligning with the core mission of the LIRA team to create the first cryptocurrency with genuine and unequivocal intrinsic value.
-Therefore, structuring the presale traditionally would undermine the fundamental concept of Satoshi LIRA as a BTC derivative.
+LIRA DAO TOKEN (LDT) Presale on Arbitrum:
 
-**Sacrifice Phase**
+The LIRA DAO TOKEN (LDT) presale on the Arbitrum network represents a pivotal phase in the initiation of the LIRA ecosystem. Structured into four tranches, each extending over a duration of 10 days, this presale offers early participants an exclusive opportunity to engage with the foundational components of the platform.
 
-The sacrifice phase consists of three sub-phases, each lasting one week, with a maximum amount of 1 wBTC that can be sacrificed per
-sub-phase.
-The first phase is called the sacrifice phase because users are required to visit our platform and sacrifice a desired amount of wBTC.
-Depending on the sub-phase in which the sacrifice is made, users will receive a bonus when redeeming their sacrifice based on the 
-corresponding sub-phase.
+Throughout the duration of the presale, bonus allocations are contingent upon the timing of acquisition. Participants will receive a 15% bonus during the initial week, followed by a 10% bonus in the subsequent week, a 5% bonus in the third week, and no bonus allocation in the final week. This tiered incentive mechanism is designed to encourage early participation and facilitate a gradual distribution of tokens.
 
-**Pricing Structure**
+The acquisition of LDT tokens will be facilitated directly through the LIRA platform, ensuring a streamlined and secure process for participants. Upon the conclusion of the presale period, liquidity pools will be activated on the LIRA Decentralized Exchange (DEx) on the Arbitrum network, augmenting liquidity and accessibility for LDT holders.
 
-To further align with our mission and maintain the concept of Satoshi LIRA as a BTC derivative, we have set the pricing structure for each sub-phase.
+A total supply of 10 billion LDT tokens will be minted on Arbitrum, with 1 billion tokens earmarked for the presale phase. The breakdown of this allocation is as follows: 85% will be available for purchase by the general public during the presale, 10% will be allocated for marketing purposes, and 5% will be reserved for the development team. Any surplus tokens remaining unsold at the conclusion of the presale will be subject to a burn mechanism, thereby establishing a protocol for managing token scarcity and preserving value.
 
-The prices per 1 LIRA will be fixed as follows:
+The remaining 9 billion LDT tokens will continue to exist on the Arbitrum network. These tokens will be strategically allocated to incentivize platform participation on Arbitrum until the transition to LIRA CHAIN. This allocation is devised to stimulate user engagement and facilitate the establishment of a vibrant and participatory community ecosystem. Users who wish to migrate their LDT tokens to the LIRA CHAIN will have the option to do so through a bridge mechanism, transforming them into LIRA DAO COIN (LDC) on the LIRA CHAIN. This bridge mechanism enables seamless interoperability between the Arbitrum network and the LIRA CHAIN, allowing users to leverage the benefits of both ecosystems.
 
----
+Priced at 0.000004 ETH per LDT, the presale presents early participants with an opportunity to acquire tokens at an initial valuation, positioning themselves favorably for potential future appreciation within the evolving LIRA ecosystem.
 
-    First Sub-Phase: 1 Satoshi
-    Second Sub-Phase: 1.6 Satoshi
-    Third Sub-phase: 2 Satoshi
-
----
-
-
-**Reward Phase of Sacrifice**
-
-This phase is where the sacrifices made during the presale are rewarded based on the time and quantity of wBTC sacrificed.
-Once the sacrifice phase concludes, the capital collected will be utilized by the protocol for liquidity provision activities,
-activating the entire Satoshi LIRA ecosystem. The rewards generated from the liquidity provision activities, as explained in the
-corresponding chapter, will be converted into wBTC and used to mint new LIRA. Throughout the reward phase of sacrifice, 50% of each
-minted block will be utilized to reward users who made sacrifices in the order they were made.
-Once all the sacrifices have been rewarded, the LIRA ecosystem reaches 100% efficiency, and all newly minted LIRA blocks are 
-distributed throughout the ecosystem
+Participation in the LDT presale serves as an invitation to partake in the foundational stages of the LIRA ecosystem. Through the acquisition of LDT tokens, participants gain access to a nascent decentralized financial infrastructure, embodying the principles of decentralization and community governance that underpin the LIRA project.
