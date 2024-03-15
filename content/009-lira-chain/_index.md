@@ -1,7 +1,7 @@
 ---
 title: LIRA Chain, Empowering Decentralized Finance with Multi-Layer Scalability
 draft: false
-weight: 90
+weight: 2
 url: '/LIRA-Chain'
 ---
 

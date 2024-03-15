@@ -2,7 +2,7 @@
 title: "Minted Satoshi LIRA distribution"
 date:
 draft: false
-weight: 40
+weight: 7
 url: '/minted-lira-distribution'
 ---
 

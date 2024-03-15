@@ -1,7 +1,7 @@
 ---
 title: Nodes and Validators
 draft: false
-weight: 85
+weight: 3
 url: '/nodes-and-validators'
 ---
 

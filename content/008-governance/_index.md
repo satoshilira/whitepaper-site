@@ -1,7 +1,7 @@
 ---
 title: Governance
 draft: false
-weight: 8
+weight: 11
 url: '/governance'
 ---
 
