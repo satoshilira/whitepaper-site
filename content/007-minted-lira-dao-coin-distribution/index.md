@@ -5,14 +5,6 @@ weight: 7
 url: '/minted-ldc-distribution'
 ---
 
----
-title: "Minted LIRA DAO Coin distribution"
-date:
-draft: false
-weight: 8
-url: '/minted-lira-dao-coin-distribution'
----
-
 The distribution of newly minted LIRA DAO Coins (LDC) follows a structured
 process that ensures the allocation
 of tokens to key areas within the ecosystem. 
