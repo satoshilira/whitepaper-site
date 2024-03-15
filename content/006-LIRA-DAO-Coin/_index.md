@@ -1,7 +1,7 @@
 ---
 title: LIRA DAO COIN
 draft: false
-weight: 5
+weight: 6
 url: '/lira-dao-coin'
 ---
 

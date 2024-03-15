@@ -2,7 +2,7 @@
 title: LIRA Treasury Bond tokens, Amplifying the Value of the Satoshi LIRA Ecosystem
 date:
 draft: false
-weight: 9
+weight: 11
 url: '/lira-treasury-bonds'
 ---
 

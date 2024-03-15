@@ -2,7 +2,7 @@
 title: Satoshi LIRA DEX, Empowering Decentralized Trading and Unique Assets
 date:
 draft: false
-weight: 10
+weight: 12
 url: '/lira-decentralized-exchange'
 ---
 

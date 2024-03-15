@@ -1,8 +1,15 @@
 ---
+title: Minted LIRA Dao Coin distribution
+draft: false
+weight: 7
+url: '/minted-ldc-distribution'
+---
+
+---
 title: "Minted LIRA DAO Coin distribution"
 date:
 draft: false
-weight: 41
+weight: 8
 url: '/minted-lira-dao-coin-distribution'
 ---
 

@@ -1,5 +1,5 @@
 ---
-Title: Homepage Satoshi LIRA whitepaper site
+Title: Homepage LIRA DAO whitepaper site
 draft: false
 weight: 1
 ---
