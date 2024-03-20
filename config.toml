@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
-title = 'Satoshi LIRA Whitepaper site'
+title = 'LIRA DAO Whitepaper'
 theme = 'hugo-theme-techdoc'
 hasCJKLanguage = true
 metaDataFormat = "yaml"
@@ -14,7 +14,7 @@ enableMissingTranslationPlaceholders = false
     # Source Code repository section
     description = "The cryptocurrency global revolution"
     github_repository = "https://github.com/satoshilira/whitepaper-site"
-    version = "2.2.1"
+    version = "3.0.0"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
