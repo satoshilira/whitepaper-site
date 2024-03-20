@@ -78,14 +78,5 @@ Hive," "The Nest," and "The Kraken.”
 
 
 
-![The BTC Vault](/images/thebtcvaultfinale.png)
 
 
-
-
-<h5>The LIRA/satoshi ratio can NEVER be less than 1. The burn mechanism is implemented to increase the BTC intrinsic value of LIRA over time.</h5>
-
-
-![increasing value](/images/reth_rate.15a0870a.png)
-
-*Graphical approximation of the increase in intrinsic value of LIRA over time*
