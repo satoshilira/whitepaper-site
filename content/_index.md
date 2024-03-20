@@ -4,7 +4,7 @@ draft: false
 weight: 1
 ---
 
-<h1>This Whitepaper is undergoing a comprehensive revision to reflect our latest partnerships and innovations. </h1>
+<h1>Welcome to the Future: Explore the LIRA Ecosystem</h1>
 
 
  
