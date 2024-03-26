@@ -140,3 +140,7 @@ enableMissingTranslationPlaceholders = false
         "tags",
         "categories",
     ]
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-8V5R7Y734J'
