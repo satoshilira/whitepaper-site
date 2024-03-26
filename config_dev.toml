@@ -77,7 +77,7 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name = "Twitter"
-        url = "https://twitter.com/Satoshi_LIRA"
+        url = "https://twitter.com/LIRA_DAO"
         weight = 2
         identifier = 'twitter'
         pre = "<i class='fa-brands fa-twitter'></i>&nbsp;"
