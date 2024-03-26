@@ -1,4 +1,4 @@
-baseURL = 'https://whitepaper.satoshilira.xyz'
+baseURL = 'https://whitepaper.liradao.xyz'
 languageCode = 'en-us'
 title = 'LIRA DAO Whitepaper'
 theme = 'hugo-theme-techdoc'
@@ -13,7 +13,7 @@ enableMissingTranslationPlaceholders = false
 
     # Source Code repository section
     description = "The cryptocurrency global revolution"
-    github_repository = "https://github.com/satoshilira/whitepaper-site"
+    # github_repository = "https://github.com/satoshilira/whitepaper-site"
     version = "3.0.0"
 
     # Documentation repository section
@@ -95,7 +95,7 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name = "Website"
-        url = "https://satoshilira.io"
+        url = "https://liradao.xyz"
         weight = 4
         identifier = 'website'
         pre = "<i class='fa-solid fa-globe'></i>&nbsp;"
